@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -21,8 +21,6 @@ social: true # includes social icons at the bottom of the page
 
 I'm a Ph.D. candidate in Computer Science at Northwestern University, advised by [Matthew Kay](https://www.mjskay.com/). My research explores the intersection of algorithms, data science, and human-computer interaction. Currently, I'm interested in developing rigorous, adaptive methods to assess and understand visualization literacy. I'm passionate about understanding and guiding human behavior and system design to bring positive social impact to our world.
 
-I co-organize the [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com/) research initiative with [Francisco J. Marmolejo Cossío](https://www.fmarmolejo.com/), [George Obaido](https://georgeobaido.com/), [Matthew Olckers](https://www.matthewolckers.com/), [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), [Lily Xu](https://lily-x.github.io/).
+I co-organize the [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com/) research initiative, which leverages computational methods to improve equity and social welfare for marginalized groups. Addtionally. I'm currently serving as a Graduate fellow at Stanford's [RegLab](https://reglab.stanford.edu), studying racial dispatity in healthcare through the lens of computer science and public policy. Previously, I served as a [Data Science for Social Good](https://www.dssgfellowship.org/) fellow at Carnegie Mellon University in Summer 2022, where I worked with Vibrant Emotional Health to improve the service of the 988 Suicide & Crisis Lifeline through data-driven call routing.
 
-I'm currently serving as a Graduate fellow at Stanford's [RegLab](https://reglab.stanford.edu), studying racial dispatity in healthcare through the lens of computer science and public policy. I served as a [Data Science for Social Good](https://www.dssgfellowship.org/) fellow at Carnegie Mellon University in Summer 2022, where I worked with Vibrant Emotional Health to improve the service of the 988 Suicide & Crisis Lifeline through data-driven call routing.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
