@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10 07:59:00-0400
+date: 2023-07-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I will be in Melbourne, Australia for IEEE VIS 2023.
+Our paper Adaptive Assessment of Visualization Literacy is accepted to IEEE VIS 2023! :sparkles: :smile:
