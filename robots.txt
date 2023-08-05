@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yccui.github.io/sitemap.xml
+Sitemap: https://yccui.github.io/al-folio/sitemap.xml
