@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper Adaptive Assessment of Visualization Literacy got accepted to IEEE VIS 2023! :sparkles:
+Our paper <em>Adaptive Assessment of Visualization Literacy</em> got accepted to IEEE VIS 2023! :sparkles:
