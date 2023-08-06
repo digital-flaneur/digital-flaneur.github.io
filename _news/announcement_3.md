@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be in Melbourne, Australia for IEEE VIS 2023.
+I will be in Melbourne, Australia for IEEE VIS 2023. :kangaroo:
