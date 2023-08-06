@@ -34,9 +34,21 @@
     url: https://en.wikipedia.org/wiki/Max_Planck
 
 "Ge":
-  - firstname: ["Lily", "L."]
+  - firstname: ["Lily W."]
     url: https://lilyge.com/
 
 "Kay":
-  - firstname: ["Matthew", "M."]
+  - firstname: ["Matthew"]
     url: https://www.mjskay.com/
+
+"Harrison":
+  - firstname: ["Lane"]
+    url: https://web.cs.wpi.edu/~ltharrison/
+
+"Yang":
+  - firstname: ["Fumeng"]
+    url: https://www.fmyang.com/
+
+"Ding":
+  - firstname: ["Yiren"]
+    url: https://dyr429.github.io/Portfolio/
