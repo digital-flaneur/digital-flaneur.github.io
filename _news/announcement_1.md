@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started working at RegLab at Stanford.
+I started working at RegLab at Stanford. :evergreen_tree:
