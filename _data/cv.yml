@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Northwestern University, Evanston, IL
       year: 1905
       description:
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: BA
+    - title: B.A.
       institution: Oberlin College, Oberlin, OH
-      year: 1900
+      year: 2020
       description:
         - Description 1.
         - Description 2.
