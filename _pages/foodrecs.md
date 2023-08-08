@@ -21,6 +21,10 @@ What to order at a restaurant is crucial in making helpful food recs. You can fi
 
 **Disclaimer**: My taste is defined by my own experiences with food and perhaps some genetics as well. The recommendations and reviews below are highly personal and biased, as they should be.
 
+- [Chicago](### **Chicago**)
+- [San Francisco Bay Area](### **San Francisco Bay Area**)
+- [Oahu](### **Oahu**)
+
 ### **Chicago**
 
 | Name                          | Rating | Type         | What to Order                                    | Neighborhood  |
@@ -44,6 +48,15 @@ What to order at a restaurant is crucial in making helpful food recs. You can fi
 | Tai Wu                              | 2      | Dim Sum           | tbd                                      | Millbrae     |
 | Coconuts Caribbean Restaurant & Bar | 1      | Jamaican          | oxtail, shrimp curry                     | Palo Alto    |
 | Ramen Nagi                          | 1      | Ramen             | ramen, karaage                           | Palo Alto    |
+
+<br/><br/>
+
+### **Oahu**
+
+| Name                  | Rating | Type               | What to Order                                                                                    | Neighborhood |
+| --------------------- | ------ | ------------------ | ------------------------------------------------------------------------------------------------ | ------------ |
+| King Restaurant & Bar | 3      | Chinese, Cantonese | steamed fish fillet steamed oyster in shell, spicy salt & pepper pork chop, choy sym with garlic | Ala Moana    |
+| Hale'iwa Bowls        | 1      | Acai, Smoothie     | blue majik bowl                                                                                  | North Shore  |
 
 <br/><br/>
 
