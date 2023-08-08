@@ -17,18 +17,31 @@ Some people factor service and vibes into their restaurant ratings. While that i
 - 2: Somewhere between 1 and 3.
 - 1: If you happen to be close, it's a good spot to try.
 
-What to order at a restaurant is crucial in making helpful food recs. You can find what I like to order in the tables below.
+What to order at a restaurant is crucial in making helpful food recs. You can find that in the tables below.
 
-**Disclaimer**: My taste is defined by my own experiences with food and maybe some genetics as well. The recommendations and reviews below are highly personal and biased, as they should be.
+**Disclaimer**: My taste is defined by my own experiences with food and perhaps some genetics as well. The recommendations and reviews below are highly personal and biased, as they should be.
 
 ### Chicago
 
-| Name                        | Rating | Type         | What to Order |
-| --------------------------- | ------ | ------------ | ------------- |
-| Qiaolin Hotpot              | 3      | Hotpot       | hotpot        |
-| Green Street Smoked Meats   | 2      | American BBQ | ribs          |
-| Carnitas Uruapan Restaurant | 2      | Mexican      | pork          |
-| Imperial Restaurant         | 1      | Dim Sum      | tbd           |
+| Name                          | Rating | Type         | What to Order                                    | Neighborhood  |
+| ----------------------------- | ------ | ------------ | ------------------------------------------------ | ------------- |
+| Qiaolin Hotpot                | 3      | Hotpot       | hotpot                                           | Chinatown     |
+| Green Street Smoked Meats     | 2      | American BBQ | ribs                                             | Fulton Market |
+| Carnitas Uruapan Restaurant   | 2      | Mexican      | pork                                             | Pilsen        |
+| Imperial Restaurant           | 1      | Dim Sum      | tbd                                              | Chinatown     |
+| Siam Noodle & Rice Restaurant | 1      | Thai         | basil duck                                       | Uptown        |
+| Falafel & Grill               | 1      | Thai         | chicken sharwarma                                | Wicker Park   |
+| Kabul House Restaurant        | 1      | Afghan       | lamb kabob, beef filet shish skewer, afghan rice | Evanston      |
+
+### San Francisco Bay Area
+
+| Name                                | Rating | Type              | What to Order                            | Neighborhood |
+| ----------------------------------- | ------ | ----------------- | ---------------------------------------- | ------------ |
+| Mrs. Khan Uyghur Cuisine            | 3      | Uyghur            | chicken korma, lamb skewers              | Menlo Park   |
+| Zareen's                            | 1      | Pakistani, Indian | grilled chicken boti sizzler, lamb gosht | Palo Alto    |
+| Tai Wu                              | 2      | Dim sum           | tbd                                      | Millbrae     |
+| Coconuts Caribbean Restaurant & Bar | 1      | Jamaican          | oxtail, shrimp curry                     | Palo Alto    |
+| Ramen Nagi                          | 1      | Ramen             | ramen, karaage                           | Palo Alto    |
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
