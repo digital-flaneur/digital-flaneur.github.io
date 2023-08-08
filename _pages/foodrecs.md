@@ -21,7 +21,7 @@ What to order at a restaurant is crucial in making helpful food recs. You can fi
 
 **Disclaimer**: My taste is defined by my own experiences with food and perhaps some genetics as well. The recommendations and reviews below are highly personal and biased, as they should be.
 
-- [Chicago](### **Chicago**)
+- [Chicago](### chicago)
 - [San Francisco Bay Area](### **San Francisco Bay Area**)
 - [Oahu](### **Oahu**)
 
