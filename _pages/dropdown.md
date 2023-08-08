@@ -7,5 +7,7 @@ dropdown: true
 children:
   - title: bio
     permalink: /bio/
-  #- title: divider
+  - title: divider
+  - title: food recs
+    permalink: /foodrecs/
 ---
