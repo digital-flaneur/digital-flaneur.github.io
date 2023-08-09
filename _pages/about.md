@@ -17,7 +17,6 @@ news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-cv_pdf: example_pdf.pdf
 ---
 
 I'm a Ph.D. candidate in Computer Science at Northwestern University, advised by [Matthew Kay](https://www.mjskay.com/). My research explores the intersection of algorithms, data science, and human-computer interaction. Currently, I'm interested in developing rigorous, adaptive methods to assess and understand visualization literacy. I'm passionate about understanding and guiding human behavior and system design to bring positive social impact.

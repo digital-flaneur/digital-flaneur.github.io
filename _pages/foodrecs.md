@@ -33,15 +33,15 @@ What to order at a restaurant is crucial in making helpful food recs. You can fi
 
 ### Chicago
 
-| Name                          | Rating | Type         | What to Order                                    | Neighborhood  |
-| ----------------------------- | ------ | ------------ | ------------------------------------------------ | ------------- |
-| Qiaolin Hotpot                | 3      | Hotpot       | hotpot                                           | Chinatown     |
-| Green Street Smoked Meats     | 2      | American BBQ | ribs                                             | Fulton Market |
-| Carnitas Uruapan Restaurant   | 2      | Mexican      | pork                                             | Pilsen        |
-| Imperial Restaurant           | 1      | Dim Sum      | tbd                                              | Chinatown     |
-| Siam Noodle & Rice Restaurant | 1      | Thai         | basil duck                                       | Uptown        |
-| Falafel & Grill               | 1      | Thai         | chicken sharwarma                                | Wicker Park   |
-| Kabul House Restaurant        | 1      | Afghan       | lamb kabob, beef filet shish skewer, afghan rice | Evanston      |
+| Name                          | Rating | Type          | What to Order                                    | Neighborhood  |
+| ----------------------------- | ------ | ------------- | ------------------------------------------------ | ------------- |
+| Qiaolin Hotpot                | 3      | Hotpot        | hotpot                                           | Chinatown     |
+| Green Street Smoked Meats     | 2      | American BBQ  | ribs                                             | Fulton Market |
+| Carnitas Uruapan Restaurant   | 2      | Mexican       | pork                                             | Pilsen        |
+| Imperial Restaurant           | 1      | Dim Sum       | tbd                                              | Chinatown     |
+| Siam Noodle & Rice Restaurant | 1      | Thai          | basil duck                                       | Uptown        |
+| Falafel & Grill               | 1      | Mediterranean | chicken sharwarma                                | Wicker Park   |
+| Kabul House Restaurant        | 1      | Afghan        | lamb kabob, beef filet shish skewer, afghan rice | Evanston      |
 
 <br/><br/>
 
