@@ -11,13 +11,17 @@ I like eating and making food, and I invest quite a bit of my leisure time on bo
 
 <!-- than most people with whom I've dined; also, the set of restaurants I like tend to be a small proper subset of the set of restaurants a friend has tried and like. -->
 
-All of the restaurants listed here are places I like, and I have visited many of them multiple times. There are way more restaurants I've tried but didn't like, but I choose not to present them because there are many possible reasons that my experience does not reflect the true quality of a restaurant.
+All of the restaurants listed here are places I like, and I have visited many of them multiple times. There are way more restaurants I've tried but didn't like, but I choose not to present them here.
+
+<!-- because there are many possible reasons that my experience does not reflect the true quality of a restaurant. -->
 
 <!-- : (1) I could have ordered the wrong items; (2) cooking performance is a Gaussian random variable and has variance, so I could have just gotten unlucky; (3) I could have been in a bad mood which affected how I perceived the food. -->
 
-Some people factor service and vibes into their restaurant ratings. While that is reasonable, **my ratings are about the food itself**. From my limited observations, service, vibes, and food definitely do not have clear positive relationships among each other. Ratings are from 1 to 3, and below is a rough description of what each score means.
+Some people factor service and vibes into their restaurant ratings, but **my ratings are about the food itself**. Ratings are from 1 to 3, and below is a rough description of what each score means.
 
-- 3: It is worth spending 2 hours getting there and waiting just for the food.
+<!-- From my limited observations, service, vibes, and food definitely do not have clear positive relationships among each other. -->
+
+- 3: It is worth spending a longe time getting there and waiting just for the food.
 - 2: Somewhere between 1 and 3.
 - 1: If you happen to be close, it's a good spot to try.
 
