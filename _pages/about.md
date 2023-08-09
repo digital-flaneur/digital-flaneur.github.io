@@ -23,4 +23,6 @@ I'm a Ph.D. candidate in Computer Science at Northwestern University, advised by
 
 I co-organize the [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com/) research initiative, which leverages computational methods to improve equity and social welfare for marginalized groups. Addtionally. I'm currently serving as a graduate fellow at Stanford's [RegLab](https://reglab.stanford.edu), studying racial dispatity in healthcare through the lens of computer science and public policy. Previously, I served as a [Data Science for Social Good (DSSG)](https://www.dssgfellowship.org/) fellow at Carnegie Mellon University in 2022, where I worked with Vibrant Emotional Health to improve the service of the 988 Suicide & Crisis Lifeline through data-driven call routing.
 
+<font size="3">[C.V.](https://yccui.github.io/assets/pdf/cv.pdf)</font>
+
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
