@@ -13,11 +13,17 @@ My name is Yuan Cui (崔元), and I also go by Charles. I work with data and try
 
 - **2020 - present**: Northwestern University.
 
-  Following my passion for computer science, I joined the CS Ph.D. program at Northwestern. I started out grad school thinking I would pursue research in economics and computation. I spent my first one and a half years taking theoretical computer science courses as well as many Ph.D. level of economics courses. Loving the abstract beauty of math and theories but yearning for more applocation and direct impact in practice, I pivoted to studying human-computer interaction.
+  Following my passion for computer science, I joined the CS Ph.D. program at Northwestern. I started out grad school stuyding the intersection of economics and computation. I spent my first one and a half years taking theoretical computer science courses as well as many Ph.D. level of economics courses. Loving the abstract beauty of math and theories but yearning for solving more applied and social-impact centered research problems, I pivoted to studying human-computer interaction.
 
-      - Data Science for Social Good (DSSG)
+  - **Summer 2022**: Data Science for Social Good (DSSG)
 
-      - Graduate Student Fellow at Stanford RegLab
+    description goes here. what i did and lessons learned.
+
+  - **Summer 2023**: Graduate Student Fellow at Stanford RegLab
+
+    description goes here. what i did and lessons learned.
+
+  At the same time, I developed leadership, management, and communication skills outside of academia.
 
 - **2016 - 2020**: Oberlin College.
 
