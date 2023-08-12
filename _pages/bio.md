@@ -14,24 +14,26 @@ My name is Yuan Cui (崔元), and I also go by Charles. I work with data and try
 - **2020 - present**: Northwestern University.
   Following my passion for computer science, I joined the CS Ph.D. program at Northwestern. I started out grad school stuyding the intersection of economics and computation. I spent my first one and a half years taking theoretical computer science courses as well as many Ph.D. level of economics courses. Loving the abstract beauty of math and theories but yearning for solving more applied and social-impact centered problems, I pivoted to doing more appplied research in human-computer interaction, data science, and algorithms. In addition, I sought opportunities to develop expertise in tech-for-social-impact work and deepen my knowledge of the research-to-practice pipeline.
 
-  - **2020 - present**: Mechanism Design for Social Good (MD4SG)
+  - **2020 - present**: [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com/)
     At the start of grad school, I began participating in MD4SG, a multi-institutional research initiative of interdisciplinary scholars and practitioners aiming to improve access and create opportunities for historically underserved communities. After participating in the Environment and Data Economies working groups for a year, my collaborators and I hosted a tutorial on data externalities at the ACM FAccT conference. I was later selected by my mentor Rediet Abebe to lead the Data Economies group in fall 2021, and eventually I became a co-organizer for the entire MD4SG initiative to manage its operations and design new programs. MD4SG gave me the opportunity to do theoretical work with a social impact flavor, taught me how to have effective discussions and conduct research with people from interdisciplinary backgrounds, and introduced me to a community of scholars who are striving to study the societal implications of sociotechnical systems.
 
-  - **Summer 2022**: Data Science for Social Good (DSSG)
+  - **Summer 2022**: [Data Science for Social Good (DSSG)](https://www.dssgfellowship.org/)
     In order to gain insights into the practical applications of computer science in real-world problems, I worked at the Data Science for Social Good summer fellowship program at Carnegie Mellon University under the supervision of Rayid Ghani and Kit Rodolfa, where we partnered with the 988 Suicide & Crisis Lifeline and built a machine learning pipeline based on historical call data to help the lifeline make routing decisions that would allow them to answer more calls. In addition to receiving extensive technical training on practical machine learning projects, I learned valuable lessons from interacting with our partner organization and with weekly speakers from government agencies and nonprofit organizations. The real world doesn't work like a textbook—organizations face so many constraints, and we have to communicate to understand their pain points. I learned about how crucial it is to be able to articulate the necessity of data-driven solutions to decision makers at the top who may not have the same technical know-how and vocabulary that engineers do.
     <!-- I felt re-energized in my career path because my skills made a small, yet tangible, difference in a problem that involves millions of callers every year seeking mental health support.   -->
     <!-- While MD4SG allowed me to work on the intersection of theoretical computer science and society, I was curious to see how such research could translate into actions. Theoretical models often make too many assumptions about reality so that certain mathematical tools can be applied to obtain “elegant” results, but such research rarely involves actual stakeholders and little follow-up work is done to take the next steps to apply the theoretical solutions.  -->
 
-  - **Summer 2023**: Graduate Student Fellow at Stanford RegLab
-  (Coming Soon!)
+  - **Summer 2023**: Graduate Student Fellow at [Stanford RegLab](https://reglab.stanford.edu/)
+    (Coming Soon!)
     <!-- description goes here. what i did and lessons learned. -->
 
   At the same time, I developed leadership, management, and communication skills outside of my academic work.
 
-  - **Consulting**: Advanced Degree Consulting Aliance (ADCA), Impact Consulting Chicago
+  - **Consulting**: [Advanced Degree Consulting Aliance (ADCA)](https://adca.northwestern.edu/), [Impact Consulting Chicago](https://www.linkedin.com/company/impact-consulting-chicago/)
+
     I gained consulting and project management experience while serving as the VP of University and Alumni relatons at ADCA, as well as co-founding the Impact Consulting Chicago and serving as the Head of Business Development. Under these roles, I managed several pro bono consulting projects for social-impact starups in the space of elderly care, financial lteracy education, and sustainable clothing.
 
-  - **Leadership Development**: Center for Leadership
+  - **Leadership Development**: [Center for Leadership](https://lead.northwestern.edu/)
+
     After serving in leadership positions at different organzations, I wanted to more delibrately develop my leadership skills. I joined the leadership coaching program, received training as a fellow, and later served as a team lead in the fellowship program at the Center for Leadership. I deepened my understanding of my own leadership style, identified and acted on areas of improvement, and developed a "leadership as service" mindset.
 
   <!-- RCTP | entrepreneurship: homeriser, the garage-->
