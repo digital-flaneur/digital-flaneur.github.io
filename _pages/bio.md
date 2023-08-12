@@ -29,11 +29,9 @@ My name is Yuan Cui (崔元), and I also go by Charles. I work with data and try
   At the same time, I developed leadership, management, and communication skills outside of my academic work.
 
   - **Consulting**: [Advanced Degree Consulting Aliance (ADCA)](https://adca.northwestern.edu/), [Impact Consulting Chicago](https://www.linkedin.com/company/impact-consulting-chicago/)
-
     I gained consulting and project management experience while serving as the VP of University and Alumni relatons at ADCA, as well as co-founding the Impact Consulting Chicago and serving as the Head of Business Development. Under these roles, I managed several pro bono consulting projects for social-impact starups in the space of elderly care, financial lteracy education, and sustainable clothing.
 
   - **Leadership Development**: [Center for Leadership](https://lead.northwestern.edu/)
-
     After serving in leadership positions at different organzations, I wanted to more delibrately develop my leadership skills. I joined the leadership coaching program, received training as a fellow, and later served as a team lead in the fellowship program at the Center for Leadership. I deepened my understanding of my own leadership style, identified and acted on areas of improvement, and developed a "leadership as service" mindset.
 
   <!-- RCTP | entrepreneurship: homeriser, the garage-->
