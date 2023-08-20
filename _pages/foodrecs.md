@@ -60,6 +60,7 @@ What to order at a restaurant is crucial in making helpful food recs. You can fi
 | Tai Wu                              | 2      | Dim Sum           | tbd                                      | Millbrae     |
 | Coconuts Caribbean Restaurant & Bar | 1      | Jamaican          | oxtail, shrimp curry                     | Palo Alto    |
 | Ramen Nagi                          | 1      | Ramen             | ramen, karaage                           | Palo Alto    |
+| La Taqueria                         | 1      | Mexican           | burrito (beef, beef tongue, beef head)   | SF - Mission |
 
 <br/><br/>
 
