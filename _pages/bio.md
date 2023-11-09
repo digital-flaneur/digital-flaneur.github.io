@@ -21,22 +21,22 @@ My name is Yuan Cui (崔元), and I also go by Charles. I work with data and try
   - **Summer 2022**: [Data Science for Social Good (DSSG)](https://www.dssgfellowship.org/)  
     In order to gain insights into the practical applications of computer science in real-world problems, I worked at the Data Science for Social Good summer fellowship program at Carnegie Mellon University under the supervision of [Rayid Ghani](http://www.rayidghani.com/) and [Kit Rodolfa](https://law.stanford.edu/directory/kit-rodolfa/), where we partnered with the 988 Suicide & Crisis Lifeline and built a machine learning pipeline based on historical call data to help the lifeline make routing decisions that would allow them to answer more calls. In addition to receiving extensive technical training on practical machine learning projects, I learned valuable lessons from interacting with our partner organization and with weekly speakers from government agencies and nonprofit organizations. The real world doesn't work like a textbook—organizations face so many constraints, and we have to communicate to understand their pain points. I learned about how crucial it is to be able to articulate the necessity of data-driven solutions to decision makers at the top who may not have the same technical know-how and vocabulary that engineers do.
 
-- **Summer 2023**: Graduate Student Fellow at [Stanford RegLab](https://reglab.stanford.edu/)
+  - **Summer 2023**: Graduate Student Fellow at [Stanford RegLab](https://reglab.stanford.edu/)
 
-  (Coming Soon!)
-  description goes here. what i did and lessons learned.
+    (Coming Soon!)
+    <!-- description goes here. what i did and lessons learned. -->
 
-At the same time, I developed leadership, management, and communication skills outside of my academic work.
+  At the same time, I developed leadership, management, and communication skills outside of my academic work.
 
-- **Consulting**: [Advanced Degree Consulting Aliance (ADCA)](https://adca.northwestern.edu/), [Impact Consulting Chicago](https://www.linkedin.com/company/impact-consulting-chicago/)
+  - **Consulting**: [Advanced Degree Consulting Aliance (ADCA)](https://adca.northwestern.edu/), [Impact Consulting Chicago](https://www.linkedin.com/company/impact-consulting-chicago/)
 
-  I gained consulting and project management experience while serving as the VP of University and Alumni relatons at ADCA, as well as co-founding Impact Consulting Chicago and serving as the Head of Business Development. Under these roles, I managed several pro bono consulting projects for social-impact starups in the space of elderly care, financial lteracy education, and sustainable clothing.
+    I gained consulting and project management experience while serving as the VP of University and Alumni relatons at ADCA, as well as co-founding Impact Consulting Chicago and serving as the Head of Business Development. Under these roles, I managed several pro bono consulting projects for social-impact starups in the space of elderly care, financial lteracy education, and sustainable clothing.
 
-- **Leadership Development**: [Center for Leadership](https://lead.northwestern.edu/)
+  - **Leadership Development**: [Center for Leadership](https://lead.northwestern.edu/)
 
-  After serving in leadership positions at different organzations, I wanted to more delibrately develop my leadership skills. I participated in the leadership coaching program, the fellowship program, and later served as a team lead in the fellowship program at the Center for Leadership. I deepened my understanding of my own leadership style, identified and acted on areas of improvement, and developed a "leadership as service" mindset.
+    After serving in leadership positions at different organzations, I wanted to more delibrately develop my leadership skills. I participated in the leadership coaching program, the fellowship program, and later served as a team lead in the fellowship program at the Center for Leadership. I deepened my understanding of my own leadership style, identified and acted on areas of improvement, and developed a "leadership as service" mindset.
 
-  <!-- RCTP | entrepreneurship: homeriser, the garage-->
+    <!-- RCTP | entrepreneurship: homeriser, the garage-->
 
 - **2016 - 2020**: Oberlin College
 
