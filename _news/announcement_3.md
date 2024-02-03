@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be in Melbourne, Australia for IEEE VIS 2023. :kangaroo:
+I will be in Hawaii for CHI 2024 :ocean: We will be hosting a [workshop on data viusalization literacy](https://visualization-literacy.github.io/CHI2024/); please submit to our workshop or stop by to chat about data viz!

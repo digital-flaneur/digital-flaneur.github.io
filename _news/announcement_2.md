@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <em>Adaptive Assessment of Visualization Literacy</em> got accepted to IEEE VIS 2023! :sparkles:
+Our paper <em>Odds and Insights: Decision Quality in Visual Analytics Under Uncertainty</em> got accepted to ACM CHI 2024! :sparkles:
