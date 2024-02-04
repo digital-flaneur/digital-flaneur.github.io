@@ -31,6 +31,7 @@ What to order at a restaurant is crucial in making helpful food recs. You can fi
 
 - [Chicago](#chicago)
 - [San Francisco Bay Area](#san-francisco-bay-area)
+- [New York](#newyork)
 - [Oahu](#oahu)
 
 <a id="chicago"></a>
@@ -55,12 +56,30 @@ What to order at a restaurant is crucial in making helpful food recs. You can fi
 
 | Name                                | Rating | Type              | What to Order                            | Neighborhood |
 | ----------------------------------- | ------ | ----------------- | ---------------------------------------- | ------------ |
-| Mrs. Khan Uyghur Cuisine            | 3      | Uyghur            | chicken korma, lamb skewers              | Menlo Park   |
-| Zareen's                            | 1      | Pakistani, Indian | grilled chicken boti sizzler, lamb gosht | Palo Alto    |
+| Mrs. Khan Uyghur Cuisine            | 2      | Uyghur            | chicken korma, lamb skewers              | Menlo Park   |
+| Zareen's                            | 2      | Pakistani, Indian | grilled chicken boti sizzler, lamb gosht | Palo Alto    |
 | Tai Wu                              | 2      | Dim Sum           | tbd                                      | Millbrae     |
 | Coconuts Caribbean Restaurant & Bar | 1      | Jamaican          | oxtail, shrimp curry                     | Palo Alto    |
 | Ramen Nagi                          | 1      | Ramen             | ramen, karaage                           | Palo Alto    |
 | La Taqueria                         | 1      | Mexican           | burrito (beef, beef tongue, beef head)   | SF - Mission |
+
+<br/><br/>
+
+<a id="newyork"></a>
+
+### New York
+
+| Name                            | Rating | Type           | What to Order                               | Neighborhood      |
+| ------------------------------- | ------ | -------------- | ------------------------------------------- | ----------------- |
+| Nurlan Uyghur Restaurant        | 2      | Uyghur         | big plate chicken, lamb skewers             | Flushing          |
+| Angel                           | 2      | Indian         | goat dum biryani                            | Jackson Heights   |
+| Uyghur Restaurant               | 2      | Uyghur         | big plate chicken, anything with lamb       | Midtown           |
+| The Soul Spot                   | 1      | Soul           | goat curry, fried chicken                   | Downtown Brooklyn |
+| Zerda                           | 1      | Middle Eastern | chicken sharwarma                           | Downtown Brooklyn |
+| Cho Dang Gol                    | 1      | Korean         | seafood tofu soup                           | Midtown           |
+| Pip Pio 7                       | 1      | Peruvian       | chicken                                     | Midtown           |
+| Le Relais de Venise L'Entrecote | 1      | French         | only one thing on the menu: steak and fries | Midtown East      |
+| Mei Lai Wah                     | 1      | Cantonese      | dim sum                                     | Chinatown         |
 
 <br/><br/>
 
