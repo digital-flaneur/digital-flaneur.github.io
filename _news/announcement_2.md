@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <em>Odds and Insights: Decision Quality in Visual Analytics Under Uncertainty</em> got accepted to ACM CHI 2024! :sparkles:
+I will be in Hawaii in May for CHI :ocean: We will be hosting a [workshop on data visualization literacy](https://visualization-literacy.github.io/CHI2024/). Please submit to our workshop or stop by to chat about data viz!

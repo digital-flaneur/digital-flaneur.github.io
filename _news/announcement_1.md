@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: post
-date: 2023-06-19 15:59:00-0400
+date: 2024-02-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I started working at RegLab at Stanford. :evergreen_tree: -->
+Our paper <em>Odds and Insights: Decision Quality in Visual Analytics Under Uncertainty</em> got accepted to ACM CHI 2024! :sparkles:
