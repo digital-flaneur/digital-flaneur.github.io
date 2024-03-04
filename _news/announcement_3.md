@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded the Intersection Science Fellowship by the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/)
+I was awarded the Intersection Science Fellowship by the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/).
