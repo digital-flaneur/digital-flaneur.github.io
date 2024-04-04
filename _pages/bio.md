@@ -3,13 +3,13 @@ layout: page
 permalink: /bio/
 title: bio
 description:
-nav: false
-nav_order: 5
+nav: true
+nav_order: 2
 ---
 
 ### Hello!
 
-My name is Yuan Cui (崔元), and I also go by Charles. I work with data and try to make a positive social impact with my work. Here's my story.
+My name is Yuan Cui (崔元), and I also go by Charles. I work with technology and data to make a positive social impact with my work. Here's my story.
 
 - **2020 - present**: Northwestern University  
   Following my passion for computer science, I joined the CS Ph.D. program at Northwestern. I started out grad school stuyding the intersection of economics and computation. I spent my first one and a half years taking theoretical computer science courses as well as many Ph.D. level of economics courses. Loving the abstract beauty of math and theories but yearning for solving more applied and social-impact centered problems, I pivoted to doing more appplied research in human-computer interaction, data science, and algorithms. In addition, I sought opportunities to develop expertise in tech-for-social-impact work and deepen my knowledge of the research-to-practice pipeline.

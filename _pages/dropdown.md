@@ -1,9 +1,9 @@
 ---
 layout: page
 title: more
-nav: true
+nav: false
 nav_order: 6
-dropdown: true
+dropdown: false
 children:
   - title: bio
     permalink: /bio/
