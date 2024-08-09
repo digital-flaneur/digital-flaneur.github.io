@@ -9,7 +9,7 @@ nav_order: 2
 
 ### Hello!
 
-My name is Yuan Cui (崔元), and I also go by Charles. I work with technology and data to make a positive impact. Here's my story.
+My name is Yuan Cui (崔元), and I also go by Charles. I work with technology and data to make an impact. Here's my story.
 
 - **2020 - present**: Northwestern University  
   Following my passion for computer science, I joined the CS Ph.D. program at Northwestern. I started out grad school stuyding the intersection of economics and computation. I spent my first couple years taking theoretical computer science and economics courses. Loving the abstract beauty of math and theories but yearning for solving more applied and social-impact centered problems, I pivoted to doing more appplied research in human-computer interaction, data science, and algorithms. I also sought opportunities to develop expertise in tech-for-social-impact work and deepen my knowledge of the research-to-practice pipeline.
@@ -30,6 +30,9 @@ My name is Yuan Cui (崔元), and I also go by Charles. I work with technology a
 
   - **Consulting**: [Advanced Degree Consulting Aliance (ADCA)](https://adca.northwestern.edu/), [Impact Consulting Chicago](https://www.linkedin.com/company/impact-consulting-chicago/)  
     I gained consulting and project management experience while serving as the Vice President of University and Alumni relatons at ADCA, as well as co-founding Impact Consulting Chicago and serving as the Head of Business Development. Under these roles, I managed several pro bono consulting projects for social-impact starups in the space of elderly care, financial lteracy education, and sustainable clothing.
+
+  - **Entrepreneurship**: HomeRiser, Inc., [The Garage at Northwestern](https://www.thegarage.northwestern.edu/)  
+    During my first two years of my Ph.D., I explored the startup world both on and off campus.
 
   - **Leadership Development**: [Center for Leadership](https://lead.northwestern.edu/)  
     After serving in leadership positions at different organzations, I wanted to more delibrately develop my leadership skills. I participated in the leadership coaching program, the fellowship program, and later served as a team lead in the fellowship program at the Center for Leadership. I deepened my understanding of my own leadership style, identified and acted on areas of improvement, and developed a "leadership as service" mindset.
