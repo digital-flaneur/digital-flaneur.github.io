@@ -23,6 +23,6 @@ I am a Ph.D. candidate in Computer Science at Northwestern University, advised b
 
 During my Ph.D., I have had the fortune to collaborate with many brilliant minds across disciplines and institutions: I co-direct [EAAMO Bridges](https://www.md4sg.com/) (formerly MD4SG), which leverages computational methods to improve equity and welfare for marginalized groups. I am a visiting researcher in social data science at the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/en), where I study population-level mortality estimation in data-scarce contexts. Previously, I was a graduate fellow at Stanford's [RegLab](https://reglab.stanford.edu), where I developed computational methods for racial disparity estimation in public health. I also served as a [Data Science for Social Good (DSSG)](https://www.dssgfellowship.org/) fellow at Carnegie Mellon University in 2022, where I worked with Vibrant Emotional Health to improve the service of the 988 Suicide & Crisis Lifeline through data-driven call routing.
 
-##### [C.V.](https://yccui.github.io/assets/pdf/cui_cv.pdf)
+<!-- #### [C.V.](https://yccui.github.io/assets/pdf/cui_cv.pdf) -->
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

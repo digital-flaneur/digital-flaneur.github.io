@@ -55,33 +55,44 @@
 
 "Dickerson":
   - firstname: ["John"]
+    url: https://jpdickerson.com
 
 "McElfresh":
   - firstname: ["Duncan"]
+    url: https://duncanmcelfresh.github.io
 
 "Dooley":
   - firstname: ["Samuel"]
+    url: https://spamueldooley.com
 
 "Griesman":
   - firstname: ["Kendra"]
+    url: https://www.linkedin.com/in/kendra-griesman-03329b173/
 
 "Wang":
   - firstname: ["Weiqin"]
+    url: https://www.linkedin.com/in/weiqin-wang-2b03aa148/
 
 "Will":
   - firstname: ["Tyler"]
+    url: https://www.linkedin.com/in/tyler-will-80310412a/
 
 "Sehgal":
   - firstname: ["Neil"]
+    url: https://hspop.uw.edu/about/faculty/member/?faculty_id=Sehgal_Neil
 
 "Sarma":
   - firstname: ["Abhraneel"]
+    url: https://abhsarma.github.io
 
 "Pu":
   - firstname: ["Xiaoying"]
+    url: https://xiaoyingpu.github.io
 
 "Brown":
   - firstname: ["Eli T"]
+    url: https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=1311
 
 "Correll":
   - firstname: ["Michael"]
+    url: https://correll.io
