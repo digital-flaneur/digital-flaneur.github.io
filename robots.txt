@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yccui.github.io/sitemap.xml
+Sitemap: https://digital-flaneur.github.io//sitemap.xml
