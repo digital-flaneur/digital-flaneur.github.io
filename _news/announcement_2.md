@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [<em>Promises and Pitfalls: Using Large Language Models to Generate Visualization Items</em>](https://yccui.github.io/assets/pdf/vila.pdf) got accepted to IEEE VIS 2024! :sparkles:
+Our paper [Promises and Pitfalls: Using Large Language Models to Generate Visualization Items](https://digital-flaneur.github.io/assets/pdf/vila.pdf) got accepted to IEEE VIS 2024! :sparkles:
