@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-03 07:59:00-0400
+date: 2024-08-30 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I've started my research visit at the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/en) through the [Population and Social Data Science Summer Incubator](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/population_and_social_data_science_summer_incubator_program_11935) program. I will be in Germany till the end of Aug.
+I will be presenting our paper [Promises and Pitfalls: Using Large Language Models to Generate Visualization Items](https://digital-flaneur.github.io/assets/pdf/vila.pdf) on the morning of Oct 18 (Fri) at IEEE VIS 2024. Please come to our [paper session](https://ieeevis.org/year/2024/info/papers-sessions) and chat with me anytime during the conference!
