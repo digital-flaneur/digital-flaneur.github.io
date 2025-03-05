@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, [_AVEC: An Assessment of Visual Encoding Ability in Visualization Construction_](https://digital-flaneur.github.io/assets/pdf/avec.pdf), is accepted to CHI 2025!
+Our paper, [_AVEC: An Assessment of Visual Encoding Ability in Visualization Construction_](https://digital-flaneur.github.io/assets/pdf/avec.pdf), is accepted to CHI 2025. Let's meet up in Yokohama in April!
