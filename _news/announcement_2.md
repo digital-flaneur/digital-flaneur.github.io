@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper, _Quantifying the Uncertainty of Age-Specific Mortality Estimates in Data-Scarce Contexts_, is accepted to the poster presentation session at the [Population Association of America
-2025 Annual Meeting (PAA 2025)](https://www.populationassociation.org/paa2025/home). Big thanks to Nathaniel Darling and our mentors at [MPIDR](https://www.demogr.mpg.de/en)!
+Our paper, [Quantifying the Uncertainty of Age-Specific Mortality Estimates in Data-Scarce Contexts](https://digital-flaneur.github.io/assets/pdf/mortality_est_paa25.pdf), is accepted to the poster presentation session at the Population Association of America
+2025 Annual Meeting (PAA 2025). Big thanks to Nathaniel Darling and our mentors at [MPIDR](https://www.demogr.mpg.de/en)!
