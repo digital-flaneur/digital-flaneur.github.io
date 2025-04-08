@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be interning at Adobe, San Jose this summer. I'd love to connect if you will be in the area!
+I will be interning at Adobe, San Jose from June to Sept. I'd love to connect if you will be in the area!
