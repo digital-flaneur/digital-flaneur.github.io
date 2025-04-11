@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got accepted into the [AIED Doctoral Consortium](https://aied2025.itd.cnr.it/index.php/maintrack/doctoral-consortium/). Thanks to [John Stamper](http://dev.stamper.org/) of CMU who's serving as my DC mentor. Let's meet up in Palermo, Italy in July at AIED+EDM+L@S! Paper link coming soon.
+I got accepted into the [AIED Doctoral Consortium](https://aied2025.itd.cnr.it/index.php/maintrack/doctoral-consortium/). Thanks to [John Stamper](http://dev.stamper.org/) of CMU who's serving as my DC mentor. Let's meet up in _Palermo, Italy_ in July at AIED+EDM+L@S! Paper link coming soon.
