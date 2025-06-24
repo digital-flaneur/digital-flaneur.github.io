@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-05 07:59:00-0400
+date: 2025-04-07 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I got accepted into the [AIED Doctoral Consortium](https://aied2025.itd.cnr.it/index.php/maintrack/doctoral-consortium/). Thanks to [John Stamper](http://dev.stamper.org/) of CMU who's serving as my DC mentor. Let's meet up in _Palermo, Italy_ in July at AIED+EDM+L@S! Paper link coming soon.
+I will be presenting a poster at the [Visualization in Science and Education Gordon Research Seminar](https://www.grc.org/visualization-in-science-and-education-conference/2025/) this July in _Lewiston, Maine_. Let's connect if you are also attending GRS!

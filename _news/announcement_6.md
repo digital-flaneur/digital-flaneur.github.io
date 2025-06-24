@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-11 07:59:00-0400
+date: 2025-06-16 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I have been selected to participate in the 12th [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/about-us/) in _Heidelberg, Germany_ this September. I'm very excited for the opportunity to meet the giants and other fellow young researchers in sciences and mathematics!
+I started my internship at Adobe in _San Jose, California_. I'm working on Adobe Customer Journey Analytics (B2B product). Happy to connect with folks in the Bay Area this summer!
