@@ -9,7 +9,7 @@ permalink: /publications/
   <ul class="pub-list">
     {% assign grouped = site.data.publications | group_by: "year" | sort: "name" | reverse %}
     {% for group in grouped %}
-    <h2 style="margin-top: 1.5rem; margin-bottom: 0.75rem; font-size: 1.1rem; color: var(--text-muted);">{{ group.name }}</h2>
+    <h2 class="pub-year-heading">{{ group.name }}</h2>
     {% for pub in group.items %}
     <li class="pub-item">
       <div class="pub-title">{{ pub.title }}</div>
