@@ -1,0 +1,69 @@
+- title: "Adaptive, Scalable, and Human-Centered Technology for Data Visualization Literacy and Educational Assessment Development"
+  authors: "Yuan \"Charles\" Cui, Fumeng Yang, Matthew Kay"
+  venue: "Artificial Intelligence in Education (AIED) — Doctoral Consortium"
+  abbr: "AIED"
+  year: 2025
+  pdf: "aied25.pdf"
+  doi: "https://doi.org/10.1007/978-3-031-99261-2_50"
+  selected: false
+
+- title: "An Autoethnography on Visualization Literacy: A Wicked Measurement Problem"
+  authors: "Lily W. Ge, Anne-Flore Cabouat, Karen Bonilla, Yuan Cui, Yiren Ding, Noëlle Rakotondravony, Mackenzie Michael Creamer, Jasmine Tan Otto, Maryam Hedayati, Bum Chul Kwon, Angela Locoro, Lane Harrison, Petra Isenberg, Michael Correll, Matthew Kay"
+  venue: "IEEE Visualization Conference (VIS)"
+  abbr: "IEEE VIS"
+  year: 2025
+  pdf: "autoeth.pdf"
+  selected: false
+
+- title: "AVEC: An Assessment of Visual Encoding Ability in Visualization Construction"
+  authors: "Lily W. Ge, Yuan Cui, Matthew Kay"
+  venue: "ACM Conference on Human Factors in Computing Systems (CHI)"
+  abbr: "ACM CHI"
+  year: 2025
+  pdf: "avec.pdf"
+  selected: true
+
+- title: "Promises and Pitfalls: Using Large Language Models to Generate Visualization Items"
+  authors: "Yuan Cui, Lily W. Ge, Yiren Ding, Lane Harrison, Fumeng Yang, Matthew Kay"
+  venue: "IEEE Visualization Conference (VIS)"
+  abbr: "IEEE VIS"
+  year: 2024
+  pdf: "vila.pdf"
+  url: "https://osf.io/ysrhq/"
+  selected: true
+
+- title: "Odds and Insights: Decision Quality in Visual Analytics Under Uncertainty"
+  authors: "Abhraneel Sarma, Xiaoying Pu, Yuan Cui, Eli T Brown, Michael Correll, Matthew Kay"
+  venue: "ACM Conference on Human Factors in Computing Systems (CHI)"
+  abbr: "ACM CHI"
+  year: 2024
+  pdf: "odds_and_insights.pdf"
+  url: "https://abhsarma.github.io/pubs/CHI2024-multiple_comparisons.pdf"
+  selected: false
+
+- title: "Adaptive Assessment of Visualization Literacy"
+  authors: "Yuan Cui, Lily W. Ge, Yiren Ding, Fumeng Yang, Lane Harrison, Matthew Kay"
+  venue: "IEEE Visualization Conference (VIS)"
+  abbr: "IEEE VIS"
+  year: 2023
+  pdf: "adaptive.pdf"
+  url: "https://ieeexplore.ieee.org/document/10295997"
+  selected: true
+
+- title: "CALVI: Critical Thinking Assessment for Literacy in Visualizations"
+  authors: "Lily W. Ge, Yuan Cui, Matthew Kay"
+  venue: "ACM Conference on Human Factors in Computing Systems (CHI)"
+  abbr: "ACM CHI"
+  year: 2023
+  pdf: "calvi.pdf"
+  url: "https://dl.acm.org/doi/abs/10.1145/3544548.3581406"
+  selected: true
+
+- title: "Can an Algorithm Be My Healthcare Proxy?"
+  authors: "Duncan McElfresh, Samuel Dooley, Yuan Cui, Kendra Griesman, Weiqin Wang, Tyler Will, Neil Sehgal, John Dickerson"
+  venue: "Explainable AI in Healthcare and Medicine (W3PHIAI)"
+  abbr: "W3PHIAI"
+  year: 2021
+  pdf: "alg_proxy.pdf"
+  url: "https://doi.org/10.1007/978-3-030-53352-6_30"
+  selected: false
