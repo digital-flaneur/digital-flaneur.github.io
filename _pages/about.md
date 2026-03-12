@@ -4,25 +4,12 @@ title: home
 permalink: /
 ---
 
-<div class="profile-section">
-  <div class="profile-header">
-    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Charles Cui" class="profile-photo">
-    <div>
-      <h1>Charles Cui</h1>
-      <p class="subtitle">Ph.D. in Computer Science &middot; Northwestern University</p>
-    </div>
-  </div>
-  <div class="bio">
-    <p>I am a researcher passionate about advancing <strong>human-AI collaboration</strong> to improve our productivity and creativity. I completed my Ph.D. in Computer Science at Northwestern University, advised by <a href="https://www.mjskay.com/">Matthew Kay</a>. My thesis research includes using <strong>data science</strong> methods and <strong>large language models</strong> to build <strong>adaptive, scalable, and human-centered technology for data visualization and education</strong>.</p>
-    <p>I also worked across institutions to explore my interdisciplinary interests: I co-directed <a href="https://eaamo-bridges.netlify.app">EAAMO Bridges</a>, a community that leverages computational methods to improve welfare for marginalized groups. I studied mortality estimation at the <a href="https://www.demogr.mpg.de/en">Max Planck Institute for Demographic Research</a>. I developed statistical methods for disparity estimation at <a href="https://reglab.stanford.edu">Stanford's RegLab</a>. I also built machine learning solutions for the 988 Lifeline as a <a href="https://www.dssgfellowship.org/">Data Science for Social Good</a> fellow at Carnegie Mellon University.</p>
-  </div>
-  <div class="profile-social">
-    <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">GitHub</a>
-    <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" rel="noopener">Scholar</a>
-    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" rel="noopener">LinkedIn</a>
-    <a href="mailto:{{ site.author.email }}">Email</a>
-  </div>
+<div class="section">
+  <h2 class="section-title">About Me</h2>
+  <p>I am a researcher passionate about advancing <strong>human-AI collaboration</strong> to improve our productivity and creativity. I completed my Ph.D. in Computer Science at Northwestern University, advised by <a href="https://www.mjskay.com/">Matthew Kay</a>. My thesis research includes using <strong>data science</strong> methods and <strong>large language models</strong> to build <strong>adaptive, scalable, and human-centered technology for data visualization and education</strong>.</p>
+  <p>I also worked across institutions to explore my interdisciplinary interests: I co-directed <a href="https://eaamo-bridges.netlify.app">EAAMO Bridges</a>, a community that leverages computational methods to improve welfare for marginalized groups. I studied mortality estimation at the <a href="https://www.demogr.mpg.de/en">Max Planck Institute for Demographic Research</a>. I developed statistical methods for disparity estimation at <a href="https://reglab.stanford.edu">Stanford's RegLab</a>. I also built machine learning solutions for the 988 Lifeline as a <a href="https://www.dssgfellowship.org/">Data Science for Social Good</a> fellow at Carnegie Mellon University.</p>
 </div>
+
 
 <div class="section">
   <h2 class="section-title">Experience</h2>

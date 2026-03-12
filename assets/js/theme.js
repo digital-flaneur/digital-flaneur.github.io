@@ -1,6 +1,5 @@
 // Dark/light mode toggle & mobile nav
 (function () {
-  var toggle = document.getElementById('theme-toggle');
   var html = document.documentElement;
   var stored = localStorage.getItem('theme');
   var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
@@ -8,22 +7,26 @@
 
   html.setAttribute('data-theme', theme);
 
-  if (toggle) {
-    toggle.addEventListener('click', function () {
-      var current = html.getAttribute('data-theme');
-      var next = current === 'dark' ? 'light' : 'dark';
-      html.setAttribute('data-theme', next);
-      localStorage.setItem('theme', next);
-    });
+  // Theme toggle — works for both sidebar and mobile toggle buttons
+  function toggleTheme() {
+    var current = html.getAttribute('data-theme');
+    var next = current === 'dark' ? 'light' : 'dark';
+    html.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
   }
 
+  var toggle = document.getElementById('theme-toggle');
+  var toggleMobile = document.getElementById('theme-toggle-mobile');
+  if (toggle) toggle.addEventListener('click', toggleTheme);
+  if (toggleMobile) toggleMobile.addEventListener('click', toggleTheme);
+
   // Mobile hamburger menu
-  var hamburger = document.getElementById('nav-hamburger');
-  var navLinks = document.querySelector('.nav-links');
-  if (hamburger && navLinks) {
-    hamburger.addEventListener('click', function () {
-      navLinks.classList.toggle('open');
-      hamburger.classList.toggle('open');
+  var menuBtn = document.getElementById('mobile-menu-btn');
+  var mobileNav = document.getElementById('mobile-nav');
+  if (menuBtn && mobileNav) {
+    menuBtn.addEventListener('click', function () {
+      mobileNav.classList.toggle('open');
+      menuBtn.classList.toggle('open');
     });
   }
 })();
