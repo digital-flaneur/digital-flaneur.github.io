@@ -8,9 +8,9 @@ permalink: /bio/
 
 ## Hello!
 
-My name is Yuan Cui (崔元), and I also go by Charles. I work with technology and data to make an impact. Here's my story.
+My name is Yuan Cui (崔元), and I also go by Charles. I work with technology and humans to make an impact. Here's my story.
 
-### 2020 – present: Northwestern University
+### 2020 – 2025: Northwestern University
 
 Following my passion for computer science, I joined the CS Ph.D. program at Northwestern. I started grad school studying the intersection of economics and theoretical computer science. I spent my first couple years taking CS and econ theory courses. Loving the abstract beauty of math and theory but yearning for solving more applied and human-centered problems, I pivoted to conducting research in human-computer interaction, data visualization, and data science. I have built adaptive, scalable, and interactive technology for data visualization and education using large language models and data science methods. I publish at top HCI and data visualization venues such as ACM CHI and IEEE VIS. At the same time, I also sought opportunities every summer to develop expertise in engineering, data science, and interdisciplinary research.
 
