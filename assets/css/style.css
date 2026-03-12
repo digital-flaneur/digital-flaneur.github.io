@@ -61,8 +61,8 @@ img { max-width: 100%; height: auto; }
 
 /* --- Sidebar --- */
 .sidebar {
-  width: 360px;
-  min-width: 360px;
+  width: 340px;
+  min-width: 340px;
   background: var(--bg-sidebar);
   border-right: 1px solid var(--border);
   position: sticky;
@@ -73,7 +73,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .sidebar-inner {
-  padding: 2.5rem 1rem 2.5rem 1.25rem;
+  padding: 2.5rem 1.75rem;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -304,7 +304,8 @@ img { max-width: 100%; height: auto; }
 .main-content {
   flex: 1;
   min-width: 0;
-  padding: 2.5rem 2rem 3rem 3.5rem;
+  padding: 2.5rem 4rem 3rem 3.5rem;
+  max-width: 1020px;
 }
 
 /* --- Bio intro (About page) --- */
