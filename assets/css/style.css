@@ -61,8 +61,8 @@ img { max-width: 100%; height: auto; }
 
 /* --- Sidebar --- */
 .sidebar {
-  width: 280px;
-  min-width: 280px;
+  width: 360px;
+  min-width: 360px;
   background: var(--bg-sidebar);
   border-right: 1px solid var(--border);
   position: sticky;
@@ -73,7 +73,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .sidebar-inner {
-  padding: 2.5rem 1.75rem;
+  padding: 2.5rem 1rem 2.5rem 1.25rem;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -143,15 +143,15 @@ img { max-width: 100%; height: auto; }
 .sidebar-social {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.35rem;
   margin-bottom: 1.5rem;
 }
 
 .sidebar-social a {
   color: var(--text-muted);
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 500;
-  padding: 0.3rem 0.6rem;
+  padding: 0.25rem 0.5rem;
   border: 1px solid var(--border);
   border-radius: 6px;
   transition: all 0.2s;
@@ -304,8 +304,7 @@ img { max-width: 100%; height: auto; }
 .main-content {
   flex: 1;
   min-width: 0;
-  padding: 2.5rem 3rem 3rem;
-  max-width: 900px;
+  padding: 2.5rem 2rem 3rem 3.5rem;
 }
 
 /* --- Bio intro (About page) --- */
