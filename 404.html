@@ -10,44 +10,89 @@
 
 </head>
 <body>
-  <nav class="nav">
-    <div class="nav-inner">
-      <a href="/" class="nav-brand">Charles Cui</a>
-      <div class="nav-links">
+  <div class="site-wrapper">
+    <!-- Left Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-inner">
+        <div class="sidebar-profile">
+          <img src="/assets/img/prof_pic.jpg" alt="Charles Cui" class="sidebar-photo">
+          <h1 class="sidebar-name">Charles Cui</h1>
+          <p class="sidebar-title">Ph.D. in Computer Science</p>
+          <p class="sidebar-affil">Northwestern University</p>
+        </div>
+
+        <nav class="sidebar-nav">
+          <a href="/">About</a>
+          <a href="/publications/">Publications</a>
+          <a href="/bio/">Bio</a>
+          <a href="/assets/pdf/cui_cv.pdf">CV</a>
+        </nav>
+
+        <div class="sidebar-social">
+          <a href="https://github.com/digital-flaneur" target="_blank" rel="noopener">GitHub</a>
+          <a href="https://scholar.google.com/citations?user=49hT38kAAAAJ" target="_blank" rel="noopener">Scholar</a>
+          <a href="https://www.linkedin.com/in/yuan-charles-cui" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="mailto:yuancui@u.northwestern.edu">Email</a>
+        </div>
+
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+          <svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+          <svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          <span>Toggle theme</span>
+        </button>
+      </div>
+    </aside>
+
+    <!-- Mobile Header -->
+    <header class="mobile-header">
+      <a href="/" class="mobile-brand">Charles Cui</a>
+      <div class="mobile-controls">
+        <button class="theme-toggle-mobile" id="theme-toggle-mobile" aria-label="Toggle dark mode">
+          <svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+          <svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+        <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Toggle menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Mobile Nav Drawer -->
+    <div class="mobile-nav" id="mobile-nav">
+      <div class="mobile-nav-profile">
+        <img src="/assets/img/prof_pic.jpg" alt="Charles Cui" class="mobile-nav-photo">
+        <div>
+          <div class="sidebar-name" style="font-size:1.1rem;">Charles Cui</div>
+          <div class="sidebar-title" style="font-size:0.8rem;">Ph.D. in Computer Science</div>
+        </div>
+      </div>
+      <nav class="mobile-nav-links">
         <a href="/">About</a>
         <a href="/publications/">Publications</a>
         <a href="/bio/">Bio</a>
         <a href="/assets/pdf/cui_cv.pdf">CV</a>
-        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
-          <svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
-          <svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
-        </button>
+      </nav>
+      <div class="sidebar-social" style="padding: 0 1.5rem;">
+        <a href="https://github.com/digital-flaneur" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://scholar.google.com/citations?user=49hT38kAAAAJ" target="_blank" rel="noopener">Scholar</a>
+        <a href="https://www.linkedin.com/in/yuan-charles-cui" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="mailto:yuancui@u.northwestern.edu">Email</a>
       </div>
-      <button class="nav-hamburger" id="nav-hamburger" aria-label="Toggle menu">
-        <span></span><span></span><span></span>
-      </button>
     </div>
-  </nav>
 
-  <main class="container">
-    <div class="page-content" style="text-align: center; padding: 4rem 0;">
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="page-content" style="text-align: center; padding: 4rem 0;">
   <h1>404</h1>
   <p>Page not found. <a href="/">Go home</a>.</p>
 </div>
 
-  </main>
 
-  <footer class="footer">
-    <div class="footer-inner">
-      <div class="social-links">
-        <a href="https://github.com/digital-flaneur" target="_blank" rel="noopener" aria-label="GitHub">GitHub</a>
-        <a href="https://scholar.google.com/citations?user=49hT38kAAAAJ" target="_blank" rel="noopener" aria-label="Google Scholar">Scholar</a>
-        <a href="https://www.linkedin.com/in/yuan-charles-cui" target="_blank" rel="noopener" aria-label="LinkedIn">LinkedIn</a>
-        <a href="mailto:yuancui@u.northwestern.edu">Email</a>
-      </div>
-      <p>&copy; 2026 Charles Cui</p>
-    </div>
-  </footer>
+      <footer class="footer">
+        <p>&copy; 2026 Charles Cui</p>
+      </footer>
+    </main>
+  </div>
 
   <script src="/assets/js/theme.js"></script>
 </body>
