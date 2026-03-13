@@ -31,6 +31,7 @@
   abbr: "ACM CHI"
   year: 2025
   pdf: "avec.pdf"
+  software: "https://avec-live-demo.vercel.app/"
   selected: true
 
 - title: "Promises and Pitfalls: Using Large Language Models to Generate Visualization Items"
