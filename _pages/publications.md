@@ -20,7 +20,9 @@ permalink: /publications/
       </div>
       <div class="pub-links">
         {% if pub.pdf %}<a href="{{ '/assets/pdf/' | append: pub.pdf | relative_url }}">PDF</a>{% endif %}
-        {% if pub.url %}<a href="{{ pub.url }}" target="_blank" rel="noopener">Link</a>{% endif %}
+        {% if pub.url %}<a href="{{ pub.url }}" target="_blank" rel="noopener">Paper</a>{% endif %}
+        {% if pub.demo %}<a href="{{ pub.demo }}" target="_blank" rel="noopener">Demo</a>{% endif %}
+        {% if pub.software %}<a href="{{ pub.software }}" target="_blank" rel="noopener">Software</a>{% endif %}
       </div>
     </li>
     {% endfor %}

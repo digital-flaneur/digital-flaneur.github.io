@@ -1,3 +1,13 @@
+- title: "Codesigning Ripplet: an LLM-Assisted Assessment Authoring System Grounded in a Conceptual Model of Teachers' Workflows"
+  authors: "Yuan Cui, Annabel Goldman, Jovy Zhou, Xiaolin Liu, Clarissa Shieh, Joshua Yao, Mia Cheng, Matthew Kay, Fumeng Yang"
+  venue: "ACM Conference on Human Factors in Computing Systems (CHI)"
+  abbr: "ACM CHI"
+  year: 2026
+  url: "https://arxiv.org/abs/2602.22186"
+  demo: "https://www.youtube.com/watch?v=LvGOUQY9Kk"
+  software: "https://demeter.cs.northwestern.edu/"
+  selected: true
+
 - title: "Adaptive, Scalable, and Human-Centered Technology for Data Visualization Literacy and Educational Assessment Development"
   authors: "Yuan \"Charles\" Cui, Fumeng Yang, Matthew Kay"
   venue: "Artificial Intelligence in Education (AIED) — Doctoral Consortium"
