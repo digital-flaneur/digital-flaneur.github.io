@@ -26,78 +26,86 @@ permalink: /
       <div class="exp-desc">Designing and developing agentic systems for Adobe Customer Journey Analytics (B2B product).</div>
       <div class="exp-links"><a href="#">Project (coming soon)</a></div>
     </li>
-    <li class="exp-item">
+    <li class="exp-item exp-item--expandable">
       <div class="exp-header">
         <span class="exp-role">Ph.D. Researcher</span>
         <span class="exp-date">2020 – 2025</span>
       </div>
       <div class="exp-org">Northwestern University</div>
+      <div class="exp-secondary-orgs">Also at: <a href="https://reglab.stanford.edu">Stanford</a> · <a href="https://www.dssgfellowship.org/">CMU</a> · <a href="https://www.demogr.mpg.de/en">Max Planck</a> · <a href="https://fig-x.github.io/workwithus">UMD</a> · UChicago · Adobe</div>
       <div class="exp-desc">Designed and developed adaptive, scalable, and human-centered AI systems for data visualization and education. Published 7 full papers at top-tier HCI and data visualization conferences.</div>
       <div class="exp-links">
         <a href="{{ '/publications/' | relative_url }}">Publications</a>
       </div>
-    </li>
-    <li class="exp-item">
-      <div class="exp-header">
-        <span class="exp-role">Machine Learning Engineer Intern</span>
-        <span class="exp-date">2025</span>
+      <button class="exp-toggle" id="phd-toggle" aria-expanded="false">
+        <span class="exp-toggle-icon">&#9656;</span> See details (7 experiences)
+      </button>
+      <div class="exp-nested" id="phd-details">
+        <ul class="exp-list exp-list--nested">
+          <li class="exp-item">
+            <div class="exp-header">
+              <span class="exp-role">Machine Learning Engineer Intern</span>
+              <span class="exp-date">2025</span>
+            </div>
+            <div class="exp-org">Adobe Inc. · Digital Experience</div>
+            <div class="exp-desc">Developed an AI-based data storytelling solution for Adobe Customer Journey Analytics. Intern project went to production, was demoed to the CEO, and is filed for patent.</div>
+            <div class="exp-links"><a href="#">Project (coming soon)</a></div>
+          </li>
+          <li class="exp-item">
+            <div class="exp-header">
+              <span class="exp-role">Visiting Ph.D. Researcher</span>
+              <span class="exp-date">2024 – 2025</span>
+            </div>
+            <div class="exp-org"><a href="https://fig-x.github.io/workwithus">University of Maryland · FIGX Lab</a></div>
+            <div class="exp-desc">Developed an interactive AI-powered system for educational assessment authoring. Led a team of 10+ undergraduate students. Full paper accepted to CHI 2026.</div>
+            <div class="exp-links"><a href="#">Ripplet (coming soon)</a></div>
+          </li>
+          <li class="exp-item">
+            <div class="exp-header">
+              <span class="exp-role">Social Data Science Researcher</span>
+              <span class="exp-date">2024</span>
+            </div>
+            <div class="exp-org"><a href="https://www.demogr.mpg.de/en">Max Planck Institute for Demographic Research</a></div>
+            <div class="exp-desc">Built statistical models to estimate age-specific mortality in a data-scarce context. Coauthored a paper accepted to PAA 2025.</div>
+            <div class="exp-links"><a href="{{ '/assets/pdf/mortality_est_paa25.pdf' | relative_url }}">PAA Poster</a></div>
+          </li>
+          <li class="exp-item">
+            <div class="exp-header">
+              <span class="exp-role">Graduate Fellow</span>
+              <span class="exp-date">2023</span>
+            </div>
+            <div class="exp-org"><a href="https://reglab.stanford.edu">Stanford University · RegLab</a></div>
+            <div class="exp-desc">Designed statistical sampling techniques to estimate racial disparity when data is scarce. Analyzed a healthcare dataset with ~7M Americans' records.</div>
+            <div class="exp-links"><a href="#">Project (coming soon)</a></div>
+          </li>
+          <li class="exp-item">
+            <div class="exp-header">
+              <span class="exp-role">Data Science Fellow</span>
+              <span class="exp-date">2022</span>
+            </div>
+            <div class="exp-org"><a href="https://www.dssgfellowship.org/">Carnegie Mellon University · DSSG</a></div>
+            <div class="exp-desc">Built a machine learning system to improve call routing of the 988 Lifeline, which serves ~2M callers per year.</div>
+            <div class="exp-links"><a href="https://github.com/dssg/vibrant_routing_public" target="_blank" rel="noopener">Code</a></div>
+          </li>
+          <li class="exp-item">
+            <div class="exp-header">
+              <span class="exp-role">Research Intern</span>
+              <span class="exp-date">2022</span>
+            </div>
+            <div class="exp-org">University of Chicago · Consortium on School Research</div>
+            <div class="exp-desc">Built statistical models on Chicago Public Schools data to predict students' graduation rates.</div>
+          </li>
+          <li class="exp-item">
+            <div class="exp-header">
+              <span class="exp-role">Undergraduate Researcher</span>
+              <span class="exp-date">2019</span>
+            </div>
+            <div class="exp-org">University of Maryland · REU</div>
+            <div class="exp-desc">Developed a machine learning model for advance healthcare directives with active learning algorithms.</div>
+            <div class="exp-links"><a href="{{ '/assets/pdf/alg_proxy.pdf' | relative_url }}">Paper</a></div>
+          </li>
+        </ul>
       </div>
-      <div class="exp-org">Adobe Inc. · Digital Experience</div>
-      <div class="exp-desc">Developed an AI-based data storytelling solution for Adobe Customer Journey Analytics. Intern project went to production, was demoed to the CEO, and is filed for patent.</div>
-      <div class="exp-links"><a href="#">Project (coming soon)</a></div>
-    </li>
-    <li class="exp-item">
-      <div class="exp-header">
-        <span class="exp-role">Visiting Ph.D. Researcher</span>
-        <span class="exp-date">2024 – 2025</span>
-      </div>
-      <div class="exp-org"><a href="https://fig-x.github.io/workwithus">University of Maryland · FIGX Lab</a></div>
-      <div class="exp-desc">Developed an interactive AI-powered system for educational assessment authoring. Led a team of 10+ undergraduate students. Full paper accepted to CHI 2026.</div>
-      <div class="exp-links"><a href="#">Ripplet (coming soon)</a></div>
-    </li>
-    <li class="exp-item">
-      <div class="exp-header">
-        <span class="exp-role">Social Data Science Researcher</span>
-        <span class="exp-date">2024</span>
-      </div>
-      <div class="exp-org"><a href="https://www.demogr.mpg.de/en">Max Planck Institute for Demographic Research</a></div>
-      <div class="exp-desc">Built statistical models to estimate age-specific mortality in a data-scarce context. Coauthored a paper accepted to PAA 2025.</div>
-      <div class="exp-links"><a href="{{ '/assets/pdf/mortality_est_paa25.pdf' | relative_url }}">PAA Poster</a></div>
-    </li>
-    <li class="exp-item">
-      <div class="exp-header">
-        <span class="exp-role">Graduate Fellow</span>
-        <span class="exp-date">2023</span>
-      </div>
-      <div class="exp-org"><a href="https://reglab.stanford.edu">Stanford University · RegLab</a></div>
-      <div class="exp-desc">Designed statistical sampling techniques to estimate racial disparity when data is scarce. Analyzed a healthcare dataset with ~7M Americans' records.</div>
-      <div class="exp-links"><a href="#">Project (coming soon)</a></div>
-    </li>
-    <li class="exp-item">
-      <div class="exp-header">
-        <span class="exp-role">Data Science Fellow</span>
-        <span class="exp-date">2022</span>
-      </div>
-      <div class="exp-org"><a href="https://www.dssgfellowship.org/">Carnegie Mellon University · DSSG</a></div>
-      <div class="exp-desc">Built a machine learning system to improve call routing of the 988 Lifeline, which serves ~2M callers per year.</div>
-      <div class="exp-links"><a href="https://github.com/dssg/vibrant_routing_public" target="_blank" rel="noopener">Code</a></div>
-    </li>
-    <li class="exp-item">
-      <div class="exp-header">
-        <span class="exp-role">Research Intern</span>
-        <span class="exp-date">2022</span>
-      </div>
-      <div class="exp-org">University of Chicago · Consortium on School Research</div>
-      <div class="exp-desc">Built statistical models on Chicago Public Schools data to predict students' graduation rates.</div>
-    </li>
-    <li class="exp-item">
-      <div class="exp-header">
-        <span class="exp-role">Undergraduate Researcher</span>
-        <span class="exp-date">2019</span>
-      </div>
-      <div class="exp-org">University of Maryland · REU</div>
-      <div class="exp-desc">Developed a machine learning model for advance healthcare directives with active learning algorithms.</div>
-      <div class="exp-links"><a href="{{ '/assets/pdf/alg_proxy.pdf' | relative_url }}">Paper</a></div>
     </li>
   </ul>
 </div>

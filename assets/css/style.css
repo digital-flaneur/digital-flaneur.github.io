@@ -392,6 +392,76 @@ img { max-width: 100%; height: auto; }
   border-color: var(--accent);
 }
 
+/* Secondary affiliations */
+.exp-secondary-orgs {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  margin-bottom: 0.25rem;
+}
+
+.exp-secondary-orgs a {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+  text-underline-offset: 2px;
+}
+.exp-secondary-orgs a:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
+
+/* Expand/collapse toggle */
+.exp-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  margin-top: 0.5rem;
+  padding: 0.3rem 0.6rem;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.exp-toggle:hover {
+  border-color: var(--accent);
+  background: var(--tag-bg);
+}
+
+.exp-toggle-icon {
+  display: inline-block;
+  transition: transform 0.2s;
+  font-size: 0.7rem;
+}
+.exp-toggle[aria-expanded="true"] .exp-toggle-icon {
+  transform: rotate(90deg);
+}
+
+/* Nested experience list */
+.exp-nested {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+}
+.exp-nested.open {
+  max-height: 2000px;
+}
+
+.exp-list--nested {
+  margin-top: 0.75rem;
+  padding: 0.5rem 0 0 1rem;
+  border-left: 2px solid var(--border);
+  list-style: none;
+}
+
+.exp-list--nested .exp-item {
+  padding: 0.6rem 0;
+}
+
 /* --- News --- */
 .news-list {
   list-style: none;

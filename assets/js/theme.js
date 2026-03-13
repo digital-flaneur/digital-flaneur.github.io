@@ -29,6 +29,20 @@
       menuBtn.classList.toggle('open');
     });
   }
+  // Expandable experience toggle
+  var phdToggle = document.getElementById('phd-toggle');
+  var phdDetails = document.getElementById('phd-details');
+  if (phdToggle && phdDetails) {
+    phdToggle.addEventListener('click', function () {
+      var expanded = phdToggle.getAttribute('aria-expanded') === 'true';
+      phdToggle.setAttribute('aria-expanded', !expanded);
+      phdDetails.classList.toggle('open');
+      phdToggle.innerHTML = expanded
+        ? '<span class="exp-toggle-icon">&#9656;</span> See details (7 experiences)'
+        : '<span class="exp-toggle-icon">&#9656;</span> Hide details';
+    });
+  }
+
   // Open all external links and PDFs in new tabs
   var links = document.querySelectorAll('a[href]');
   var host = window.location.host;
