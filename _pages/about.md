@@ -23,16 +23,16 @@ permalink: /
         <span class="exp-date">2026 – present</span>
       </div>
       <div class="exp-org">Adobe Inc. · Customer Experience Orchestration</div>
-      <div class="exp-desc">Designing and developing agentic systems for Adobe Customer Journey Analytics (B2B product).</div>
+      <div class="exp-desc">Designing and developing agentic systems for Adobe Customer Journey Analytics (B2B product). Developed an AI-based data storytelling solution for Adobe Customer Journey Analytics. Intern project went to production, was demoed to the CEO, and is filed for patent.</div>
       <div class="exp-links"><a href="#">Project (coming soon)</a></div>
     </li>
     <li class="exp-item exp-item--expandable">
       <div class="exp-header">
-        <span class="exp-role">Ph.D. Researcher</span>
+        <span class="exp-role">Ph.D. Researcher and Engineer</span>
         <span class="exp-date">2020 – 2025</span>
       </div>
       <div class="exp-org">Northwestern University</div>
-      <div class="exp-secondary-orgs">Also at: <a href="https://reglab.stanford.edu">Stanford</a> · <a href="https://www.dssgfellowship.org/">CMU</a> · <a href="https://www.demogr.mpg.de/en">Max Planck</a> · <a href="https://fig-x.github.io/workwithus">UMD</a> · UChicago · Adobe</div>
+      <div class="exp-secondary-orgs">Also at: <a href="https://www.dssgfellowship.org/">Carnegie Mellon</a> · <a href="https://reglab.stanford.edu">Stanford</a> · <a href="https://www.demogr.mpg.de/en">Max Planck Institute</a> · <a href="https://fig-x.github.io/workwithus">UMD</a> · <a href="https://consortium.uchicago.edu/">UChicago</a> </div>
       <div class="exp-desc">Designed and developed adaptive, scalable, and human-centered AI systems for data visualization and education. Published 7 full papers at top-tier HCI and data visualization conferences.</div>
       <div class="exp-links">
         <a href="{{ '/publications/' | relative_url }}">Publications</a>
@@ -42,15 +42,6 @@ permalink: /
       </button>
       <div class="exp-nested" id="phd-details">
         <ul class="exp-list exp-list--nested">
-          <li class="exp-item">
-            <div class="exp-header">
-              <span class="exp-role">Machine Learning Engineer Intern</span>
-              <span class="exp-date">2025</span>
-            </div>
-            <div class="exp-org">Adobe Inc. · Digital Experience</div>
-            <div class="exp-desc">Developed an AI-based data storytelling solution for Adobe Customer Journey Analytics. Intern project went to production, was demoed to the CEO, and is filed for patent.</div>
-            <div class="exp-links"><a href="#">Project (coming soon)</a></div>
-          </li>
           <li class="exp-item">
             <div class="exp-header">
               <span class="exp-role">Visiting Ph.D. Researcher</span>
@@ -94,15 +85,6 @@ permalink: /
             </div>
             <div class="exp-org">University of Chicago · Consortium on School Research</div>
             <div class="exp-desc">Built statistical models on Chicago Public Schools data to predict students' graduation rates.</div>
-          </li>
-          <li class="exp-item">
-            <div class="exp-header">
-              <span class="exp-role">Undergraduate Researcher</span>
-              <span class="exp-date">2019</span>
-            </div>
-            <div class="exp-org">University of Maryland · REU</div>
-            <div class="exp-desc">Developed a machine learning model for advance healthcare directives with active learning algorithms.</div>
-            <div class="exp-links"><a href="{{ '/assets/pdf/alg_proxy.pdf' | relative_url }}">Paper</a></div>
           </li>
         </ul>
       </div>
