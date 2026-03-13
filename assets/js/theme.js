@@ -29,4 +29,18 @@
       menuBtn.classList.toggle('open');
     });
   }
+  // Open all external links and PDFs in new tabs
+  var links = document.querySelectorAll('a[href]');
+  var host = window.location.host;
+  links.forEach(function (link) {
+    var href = link.getAttribute('href');
+    if (!href) return;
+    var isExternal = href.indexOf('http') === 0 && href.indexOf(host) === -1;
+    var isPdf = href.toLowerCase().indexOf('.pdf') !== -1;
+    var isMailto = href.indexOf('mailto:') === 0;
+    if ((isExternal || isPdf) && !isMailto) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener');
+    }
+  });
 })();
