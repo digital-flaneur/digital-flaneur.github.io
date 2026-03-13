@@ -7,7 +7,9 @@ permalink: /
 <div class="section">
   <h2 class="section-title">About Me</h2>
   <p>I am a <strong>builder</strong> passionate about advancing <strong>human-AI collaboration</strong> to improve our <strong>productivity and creativity</strong>. I love studying how people work and building solutions to help them work better. I am currently a machine learning engineer at Adobe, where I build and evaluate agentic systems for data analytics products.</p>
-  
+
+  <br>
+
   <p>I completed my Ph.D. in Computer Science at Northwestern University, advised by <a href="https://www.mjskay.com/">Matthew Kay</a>. My thesis research includes using data science methods and large language models to build adaptive, scalable, and human-centered technology for data visualization and education. Back in my Ph.D. days, I worked across fields and institutions to explore my interdisciplinary interests: I co-directed <a href="https://eaamo-bridges.netlify.app">EAAMO Bridges</a>, a community that leverages computational methods to improve welfare for marginalized groups. I studied mortality estimation at the <a href="https://www.demogr.mpg.de/en">Max Planck Institute for Demographic Research</a>. I developed statistical methods for disparity estimation at <a href="https://reglab.stanford.edu">Stanford's RegLab</a>. I also built machine learning solutions for the 988 Lifeline as a <a href="https://www.dssgfellowship.org/">Data Science for Social Good</a> fellow at Carnegie Mellon University.</p>
 </div>
 
