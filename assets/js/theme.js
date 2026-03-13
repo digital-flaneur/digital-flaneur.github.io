@@ -38,7 +38,7 @@
       phdToggle.setAttribute('aria-expanded', !expanded);
       phdDetails.classList.toggle('open');
       phdToggle.innerHTML = expanded
-        ? '<span class="exp-toggle-icon">&#9656;</span> See details (7 experiences)'
+        ? '<span class="exp-toggle-icon">&#9656;</span> See details (5 selected experiences)'
         : '<span class="exp-toggle-icon">&#9656;</span> Hide details';
     });
   }
