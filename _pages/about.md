@@ -49,7 +49,7 @@ permalink: /
             </div>
             <div class="exp-org"><a href="https://fig-x.github.io/workwithus">University of Maryland · FIGX Lab</a></div>
             <div class="exp-desc">Developed an interactive AI-powered system for educational assessment authoring. Led a team of 10+ undergraduate students. Full paper accepted to CHI 2026.</div>
-            <div class="exp-links"><a href="#">Ripplet (coming soon)</a></div>
+            <div class="exp-links"><a href="https://arxiv.org/abs/2602.22186">Ripplet</a></div>
           </li>
           <li class="exp-item">
             <div class="exp-header">
@@ -67,7 +67,6 @@ permalink: /
             </div>
             <div class="exp-org"><a href="https://reglab.stanford.edu">Stanford University · RegLab</a></div>
             <div class="exp-desc">Designed statistical sampling techniques to estimate racial disparity when data is scarce. Analyzed a healthcare dataset with ~7M Americans' records.</div>
-            <div class="exp-links"><a href="#">Project (coming soon)</a></div>
           </li>
           <li class="exp-item">
             <div class="exp-header">
@@ -83,7 +82,7 @@ permalink: /
               <span class="exp-role">Research Intern</span>
               <span class="exp-date">2022</span>
             </div>
-            <div class="exp-org">University of Chicago · Consortium on School Research</div>
+            <div class="exp-org"><a href="https://consortium.uchicago.edu/">University of Chicago · Consortium on School Research</a></div>
             <div class="exp-desc">Built statistical models on Chicago Public Schools data to predict students' graduation rates.</div>
           </li>
         </ul>
