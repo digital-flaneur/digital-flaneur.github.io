@@ -29,19 +29,22 @@
       menuBtn.classList.toggle('open');
     });
   }
-  // Expandable experience toggle
-  var phdToggle = document.getElementById('phd-toggle');
-  var phdDetails = document.getElementById('phd-details');
-  if (phdToggle && phdDetails) {
-    phdToggle.addEventListener('click', function () {
-      var expanded = phdToggle.getAttribute('aria-expanded') === 'true';
-      phdToggle.setAttribute('aria-expanded', !expanded);
-      phdDetails.classList.toggle('open');
-      phdToggle.innerHTML = expanded
-        ? '<span class="exp-toggle-icon">&#9656;</span> See details (5 selected experiences)'
+  // Generic expandable toggle — works for any toggle/details pair
+  var toggles = document.querySelectorAll('.exp-toggle[id]');
+  toggles.forEach(function (btn) {
+    var detailsId = btn.id.replace('-toggle', '-details');
+    var details = document.getElementById(detailsId);
+    if (!details) return;
+    var collapsedText = btn.innerHTML;
+    btn.addEventListener('click', function () {
+      var expanded = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', !expanded);
+      details.classList.toggle('open');
+      btn.innerHTML = expanded
+        ? collapsedText
         : '<span class="exp-toggle-icon">&#9656;</span> Hide details';
     });
-  }
+  });
 
   // Open all external links and PDFs in new tabs
   var links = document.querySelectorAll('a[href]');
