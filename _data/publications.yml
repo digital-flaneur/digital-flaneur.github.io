@@ -13,8 +13,7 @@
   venue: "Artificial Intelligence in Education (AIED) — Doctoral Consortium"
   abbr: "AIED"
   year: 2025
-  pdf: "aied25.pdf"
-  doi: "https://doi.org/10.1007/978-3-031-99261-2_50"
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-99261-2_50"
   selected: false
 
 - title: "An Autoethnography on Visualization Literacy: A Wicked Measurement Problem"
@@ -22,7 +21,7 @@
   venue: "IEEE Visualization Conference (VIS)"
   abbr: "IEEE VIS"
   year: 2025
-  pdf: "autoeth.pdf"
+  url: "https://osf.io/preprints/osf/dfr4p_v2"
   selected: false
 
 - title: "AVEC: An Assessment of Visual Encoding Ability in Visualization Construction"
