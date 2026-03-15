@@ -14,6 +14,12 @@ My name is Yuan Cui (崔元), and I also go by Charles. I work with technology a
 
 Following my passion for computer science, I joined the CS Ph.D. program at Northwestern. I started grad school studying the intersection of economics and theoretical computer science. I spent my first couple years taking CS and econ theory courses. Loving the abstract beauty of math and theory but yearning for solving more applied and human-centered problems, I pivoted to conducting research in human-computer interaction, data visualization, and data science. I have built adaptive, scalable, and interactive technology for data visualization and education using large language models and data science methods. I publish at top HCI and data visualization venues such as ACM CHI and IEEE VIS. At the same time, I also sought opportunities every summer to develop expertise in engineering, data science, and interdisciplinary research.
 
+<button class="exp-toggle" id="bio-nu-toggle" aria-expanded="false">
+  <span class="exp-toggle-icon">&#9656;</span> See details (8 experiences)
+</button>
+<div class="exp-nested" id="bio-nu-details">
+<div markdown="1">
+
 - **Summer 2025**: Engineer @ Adobe — TBD :)
 
 - **Summer 2024**: Social Data Science Researcher @ [Max Planck Institute for Demographic Research (MPIDR)](https://www.demogr.mpg.de/en) — I joined MPIDR as a visiting researcher in the [Population and Social Data Science Incubator program](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/population_and_social_data_science_summer_incubator_program_11935) under the supervision of [Ugofilippo Basellini](https://sites.google.com/view/ubasellini/home), [Monica Alexander](https://www.monicaalexander.com/), and Irena Chen. My team worked on improving age-specific national mortality estimation in a data scarce context.
@@ -31,6 +37,9 @@ Following my passion for computer science, I joined the CS Ph.D. program at Nort
 - **Entrepreneurship**: HomeRiser, Inc., [The Garage at Northwestern](https://www.thegarage.northwestern.edu/) — I co-founded a real estate technology startup aimed at providing more flexible and affordable ways to finance home ownership.
 
 - **Leadership Development**: [Center for Leadership](https://lead.northwestern.edu/) — I participated in the leadership coaching program, the fellowship program, and later served as a team lead in the fellowship program.
+
+</div>
+</div>
 
 ### 2016 – 2020: Oberlin College
 
